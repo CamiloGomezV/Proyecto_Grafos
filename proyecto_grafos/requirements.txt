@@ -1,0 +1,12 @@
+cairocffi==1.1.0
+cffi==1.14.0
+cycler==0.10.0
+kiwisolver==1.2.0
+matplotlib==3.2.1
+numpy==1.18.3
+pycparser==2.20
+pyparsing==2.4.7
+python-dateutil==2.8.1
+python-igraph==0.8.0
+six==1.14.0
+texttable==1.6.2
